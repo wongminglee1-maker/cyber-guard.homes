@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://cyber-guard.homes/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Articles Hub -->
+  <url>
+    <loc>https://cyber-guard.homes/articles/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Article 1: 评测 -->
+  <url>
+    <loc>https://cyber-guard.homes/articles/cyberguard-jichang-tuijian-pingce.html</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 2: Clash与ClashParty配置 -->
+  <url>
+    <loc>https://cyber-guard.homes/articles/clash-jiedian-clashparty-peizhi-jiaocheng.html</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 3: 便宜机场对比 -->
+  <url>
+    <loc>https://cyber-guard.homes/articles/pianyi-jichang-vs-anquan-jichang-duibi.html</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 4: 专线原理 -->
+  <url>
+    <loc>https://cyber-guard.homes/articles/wending-jiedian-quanqiu-jiasu-yuanli.html</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 5: ClashParty技巧与AI解锁 -->
+  <url>
+    <loc>https://cyber-guard.homes/articles/clashparty-jichang-shiyong-jiqiao.html</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 6: 安全与隐私 -->
+  <url>
+    <loc>https://cyber-guard.homes/articles/cyberguard-vpn-anquan-jiami-xieyi.html</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Article 7: 跨境出海指南 -->
+  <url>
+    <loc>https://cyber-guard.homes/articles/kexue-shangwang-chuhai-bikan-zhinan.html</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+</urlset>

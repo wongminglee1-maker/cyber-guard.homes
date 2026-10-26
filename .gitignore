@@ -1,0 +1,17 @@
+# OS & System files
+.DS_Store
+Thumbs.db
+*.log
+
+# Editor files
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+
+# Local previews & server
+preview-screenshots/
+server_url.txt
+scratch/
+tmp/
